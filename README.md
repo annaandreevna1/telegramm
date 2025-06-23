@@ -1,0 +1,9 @@
+.env
+```env
+TELEGRAM_BOT_TOKEN=7445814769:AAFK68LuUynQsBwVKvHJeqifK_PZBVoKCRY
+API_KEY=7445814769
+```
+Запуск
+```bash
+./start.sh
+```
